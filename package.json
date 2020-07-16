@@ -1,0 +1,26 @@
+{
+  "name": "chat2",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.20.0",
+    "monaco-editor-vue": "^1.0.10",
+    "monaco-editor-webpack-plugin": "^1.9.0",
+    "nuxt": "^2.13.0",
+    "vue-monaco": "^1.2.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^9.0.2",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2"
+  }
+}
