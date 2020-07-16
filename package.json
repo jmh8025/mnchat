@@ -9,7 +9,7 @@
     "export": "nuxt export",
     "serve": "nuxt serve",
     "generate": "nuxt generate"
-  },
+  }, 
   "dependencies": {
     "monaco-editor": "^0.20.0",
     "monaco-editor-vue": "^1.0.10",
